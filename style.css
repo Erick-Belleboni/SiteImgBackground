@@ -1,5 +1,5 @@
 body {
-    background-image: url(img/cat-side-eye-cat.gif);
+    background-image: url("./img/cat-side-eye-cat.gif");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -19,7 +19,7 @@ header{
     width: 20%;
 }
 .imgboneco:hover{
-    content: url(/img/boneco2gif.gif);
+    content: url("./img/boneco2gif.gif");
 }
 
 
