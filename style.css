@@ -1,0 +1,56 @@
+body {
+    background-image: url(img/cat-side-eye-cat.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    background-color: rgba(0, 0, 0, 0.818);
+    text-align: center;
+    color: aliceblue;
+    font-size: 200%;
+}
+#divboneco{
+    margin-top: 10%;
+    margin-left: 45%;   
+}
+.imgboneco{
+    height: 100%;
+    width: 20%;
+}
+.imgboneco:hover{
+    content: url(/img/boneco2gif.gif);
+}
+
+#gatoDivFds{
+    margin-top: 100%;
+    margin-left: 45%;
+
+}
+
+
+/*
+backgorund-image: url([caminho da img])->para add a img
+background-repeat: -> para definir se a img se repete ou...
+background-size: -> tamanho da img
+background-position: -> posição da img
+background-attachment: -> controla o movimento com scroll
+backgorund-origin: -> define onde a img começa
+background-clip: -> até onde a img é exibida
+background-color: -> cor de fundo(pd ser junto da img)
+background: -> forma curta de usar, por exemplo: "background: url([caminho]) no-repeat" center/cover
+
+
+- **`background-origin`** → define de onde a imagem começa.
+    
+    👉 `padding-box`, `border-box`, `content-box`
+
+
+
+
+
+
+
+
+
+*/
