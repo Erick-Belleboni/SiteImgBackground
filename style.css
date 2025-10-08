@@ -19,7 +19,7 @@ header{
     width: 20%;
 }
 .imgboneco:hover{
-    content: url(/img/boneco2gif.gif);
+    content: url(img/boneco2gif.gif);
 }
 
 #gatoDivFds{
